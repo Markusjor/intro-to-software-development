@@ -14,3 +14,6 @@
 
   [project.urls]
   repository = "https://github.com/Markusjor/intro-to-software-development"
+
+  [project.optional-dependencies]
+  dev = ["pytest"]
