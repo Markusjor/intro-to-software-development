@@ -1,3 +1,4 @@
+
 # Introduction to Software Development, Git and Python
 
 ## Agenda
@@ -98,3 +99,4 @@ Day 3
 ## Useful links
 
 A couple of useful links are provided [here](course_documentation/useful_links.md).
+
